@@ -122,7 +122,7 @@ public class App {
 	
 	/**
 	 * This method deletes an item based on the item title the user inputs.
-	 * @param items This sit he ArrayList of items
+	 * @param items This is the ArrayList of items
 	 * @param scanner This is the scanner object to accept user input
 	 */
 	private static void deleteBid(ArrayList<ItemForBid> items, Scanner scanner) {
